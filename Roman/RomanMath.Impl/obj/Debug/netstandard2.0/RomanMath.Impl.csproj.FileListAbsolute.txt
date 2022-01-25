@@ -1,0 +1,10 @@
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.dll
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\bin\Debug\netstandard2.0\RomanMath.Impl.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.dll
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Impl\obj\Debug\netstandard2.0\RomanMath.Impl.pdb

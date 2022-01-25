@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "af0fe6e2-4a19-44fc-84dc-04a329993661": {
+      "ProjectGuid": "af0fe6e2-4a19-44fc-84dc-04a329993661",
+      "DisplayName": "RomanMath.Tests",
+      "ColorIndex": 0
+    },
+    "b6f31e29-d097-4c98-9afa-b8ce5319bb51": {
+      "ProjectGuid": "b6f31e29-d097-4c98-9afa-b8ce5319bb51",
+      "DisplayName": "RomanMath.Impl",
+      "ColorIndex": 1
+    },
+    "b9d90558-6886-479d-b6f3-a9b30fe19df4": {
+      "ProjectGuid": "b9d90558-6886-479d-b6f3-a9b30fe19df4",
+      "DisplayName": "RomanMath.Console",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

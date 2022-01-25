@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c987a4cb-6a3f-43c8-9c48-ac9675887b6e": {
+      "ProjectGuid": "c987a4cb-6a3f-43c8-9c48-ac9675887b6e",
+      "DisplayName": "Rectangle.Console",
+      "ColorIndex": 0
+    },
+    "73dc8a6c-2c28-4d0b-a8b6-d8dc8f9b9fbc": {
+      "ProjectGuid": "73dc8a6c-2c28-4d0b-a8b6-d8dc8f9b9fbc",
+      "DisplayName": "Rectangle.Impl",
+      "ColorIndex": 1
+    },
+    "e879af04-e74b-47dd-aac8-1f0213f7f0c8": {
+      "ProjectGuid": "e879af04-e74b-47dd-aac8-1f0213f7f0c8",
+      "DisplayName": "Rectangle.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

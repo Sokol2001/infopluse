@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LFCmnpKf0RzCHd7yjgZ5fjd6sA4qP8JPj+VhGTyA8P0XYwxLaAEEmuU+d2g7rBId7j/tiLuyAyCNbvhtJIrNjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oleks\\OneDrive\\Рабочий стол\\2\\Rectangle.Console\\Rectangle.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oleks\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\oleks\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\oleks\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\oleks\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

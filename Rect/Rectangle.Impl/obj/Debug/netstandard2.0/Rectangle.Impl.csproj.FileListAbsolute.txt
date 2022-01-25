@@ -1,0 +1,10 @@
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.dll
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\bin\Debug\netstandard2.0\Rectangle.Impl.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.dll
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Impl\obj\Debug\netstandard2.0\Rectangle.Impl.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.exe
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.dev.json
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.dll
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.dll
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CopyComplete
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.dll
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\1\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.genruntimeconfig.cache

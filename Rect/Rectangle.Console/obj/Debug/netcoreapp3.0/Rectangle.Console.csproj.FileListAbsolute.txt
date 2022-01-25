@@ -1,0 +1,17 @@
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.exe
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.deps.json
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.runtimeconfig.json
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.runtimeconfig.dev.json
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.dll
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Console.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Impl.dll
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\bin\Debug\netcoreapp3.0\Rectangle.Impl.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.AssemblyReference.cache
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.AssemblyInfoInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.AssemblyInfo.cs
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.CoreCompileInputs.cache
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.csproj.CopyComplete
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.dll
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.pdb
+C:\Users\oleks\OneDrive\Рабочий стол\2\Rectangle.Console\obj\Debug\netcoreapp3.0\Rectangle.Console.genruntimeconfig.cache
